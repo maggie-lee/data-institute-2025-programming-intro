@@ -8,13 +8,13 @@
   <li>Know some things to do at a blinking cursor on a blank page</li>
   <li>Experience errors, which are a normal part of programming</li>
   <li>Search online for stuff when we're baffled</li>
-  <li>Be better equipped to tap programming for work, whether you write the code or work with someone who does</li>
+  <li>Be better equipped to understanding uses of programming for work, whether you write the code or work with someone who does</li>
 </ul>
 
 #### What we will not do
 <ul>
   <li>Become ninjas or magicians</li>
-  <li>Wear hoodies in the dark at home while eating Cheetos & Mountain Dew</li>
+  <li>Wear hoodies in the dark at home eating Cheetos & Mountain Dew</li>
   <li>Hack</li>
 </ul>
 
