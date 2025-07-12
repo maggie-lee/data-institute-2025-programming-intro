@@ -1,6 +1,6 @@
 ## The Data Institute July 16, 2025
 #### Web Scraping with Python
-##### Goals for the day and intro to jargon
+##### Goals for the day and a word on jargon
 
 ##### What we will do
 <ul>
@@ -15,13 +15,13 @@
 <ul>
   <li>Become ninjas or magicians</li>
   <li>Wear hoodies in the dark at home eating Cheetos & Mountain Dew</li>
-  <li>Hack</li>
+  <li>Write entire programs (almost no one writes an entire program anyway.)</li>
 </ul>
 
 #### Jargon
 
 <p>Jargon is part of any specialty skill. Chefs, builders, mechanics, economists, everybody uses some work jargon.</p>
 <p>No one person understands all the jargon. Always ask if you don't know, it's OK!</p>
-<p>It's a bad sign when folks try to gatekeep with jargon :rage: </p>
+<p>It's a bad sign when folks try to gatekeep with jargon. :rage: </p>
 
 
